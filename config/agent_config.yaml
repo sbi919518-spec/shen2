@@ -1,0 +1,13 @@
+{
+  "briefing": {
+    "max_items": 20,
+    "top_items": 5,
+    "output_dir": "data/briefings"
+  },
+  "runtime": {
+    "raw_dir": "data/raw",
+    "processed_dir": "data/processed",
+    "runs_dir": "data/runs",
+    "continue_on_agent_error": false
+  }
+}

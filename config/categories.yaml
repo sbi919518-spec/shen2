@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "name": "AI 与大模型",
+      "keywords": ["ai", "artificial intelligence", "llm", "gpt", "agent", "model", "inference", "training", "openai", "anthropic", "gemini", "claude"]
+    },
+    {
+      "name": "开发者工具与开源",
+      "keywords": ["github", "developer", "framework", "api", "sdk", "database", "devops", "ide", "open source", "python", "javascript", "rust"]
+    },
+    {
+      "name": "论文与研究",
+      "keywords": ["arxiv", "paper", "research", "benchmark", "dataset", "evaluation", "study"]
+    },
+    {
+      "name": "公司与产品",
+      "keywords": ["launch", "product", "company", "microsoft", "google", "meta", "apple", "nvidia", "startup", "funding"]
+    },
+    {
+      "name": "网络安全",
+      "keywords": ["security", "vulnerability", "cve", "breach", "malware", "patch", "privacy"]
+    },
+    {
+      "name": "芯片与硬件",
+      "keywords": ["gpu", "chip", "semiconductor", "nvidia", "amd", "hardware", "robot"]
+    },
+    {
+      "name": "政策监管",
+      "keywords": ["policy", "regulation", "copyright", "law", "compliance", "export control"]
+    },
+    {
+      "name": "值得深读",
+      "keywords": ["report", "analysis", "interview", "essay", "deep dive", "long read"]
+    }
+  ]
+}
